@@ -47,7 +47,7 @@ docker run --rm -it -v D:\Temp\:/mnt/tmp:rw -p 5000:5000 my_container /bin/bash
 #mv ./mailer /mnt/tmp/ 
 ```
 ## 3. Run
-Log's don't have enough information, but better than nothing...
+Logs don't have enough information, but better than nothing...
 
 $mailer -c /path/to/config.json >> ./log.txt
 
