@@ -61,7 +61,7 @@ curl -X POST -H "Content-Type: application/json" \
 
 ```
 {
-	"Token":"0x00-1xff",
+	"Token":"0x00-0xff",
 	"From": "noreply@prismcorp.com",
 	"To": ["evgeny.ovsov@prismcorp.com"],
 	"Subject": "Test",
